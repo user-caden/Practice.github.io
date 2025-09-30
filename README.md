@@ -1,1 +1,76 @@
-# Practice.github.io
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Khaana - Our Products</title>
+</head>
+
+<body style="background-color: #F5F5DC; font-family: Arial;">
+
+    <h1 style="color: #8B4513; font-family: Georgia;">Welcome to Khaana Bar & Grill</h1>
+    <h2 style="color: #8B4513; font-family: Georgia;">Our Delicious Offerings 🍔</h2>
+
+    <hr>
+
+    <h3>Our Famous Eats</h3>
+    <p>
+        At Khaana, we believe in flavor that makes a statement. Our menu is a celebration of classic bar and grill favorites.
+        We are <b>absolutely committed</b> to using the freshest ingredients.
+    </p>
+
+    <img src="https://images.pexels.com/photos/1639562/pexels-photo-1639562.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+         alt="A delicious gourmet burger with cheese and a side of french fries"
+         width="500">
+
+    <p>
+        Our signature dish, the <u>Khaana Ultimate Burger</u>, is a must-try. It's not just a meal; <i>it's an experience</i>.
+        We also have a <font color="#d9534f" size="+1">fantastic selection</font> of other items to satisfy any craving.
+    </p>
+
+    <h4>Signature Appetizers</h4>
+    <ul>
+        <li>Spicy Firecracker Wings</li>
+        <li>Loaded Volcano Nachos</li>
+        <li>Crispy Onion Tower</li>
+        <li>Garlic Parmesan Fries</li>
+    </ul>
+
+    <hr>
+
+    <h3>Crafted Drinks & Brews</h3>
+    <p>
+        What's a great meal without the perfect drink? Our bar is fully stocked with a wide range of options.
+        <font face="Courier New" size="-1">From local craft beers to exotic cocktails, we have something to quench your thirst.</font>
+    </p>
+
+    <h4>Top Cocktail Picks</h4>
+    <ol>
+        <li>Smoky Old Fashioned</li>
+        <li>Spicy Mango Margarita</li>
+        <li>Classic Mojito</li>
+    </ol>
+
+    <hr>
+
+    <h3>More Info & Full Menu</h3>
+    <p>
+        Interested in the craft beer scene? Check out our partner, <a href="https://www.brewersassociation.org/" target="_blank">The Brewers Association</a>!
+    </p>
+    <p>
+        Planning a visit? <a href="Khaana Bar menu.pdf" target="_blank">View Our Full Menu (PDF)</a>
+    </p>
+
+    <hr>
+
+    <br>
+    <i>
+        Have questions? <a href="mailto:contact@khaana-grill.com">Contact me!</a>
+        <br>
+        <small>Last Modified:
+            <script>
+                document.write(document.lastModified);
+            </script>
+        </small>
+    </i>
+
+</body>
+</html>
